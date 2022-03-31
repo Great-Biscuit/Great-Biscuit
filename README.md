@@ -3,7 +3,7 @@
 ### ✨ A Java Developer. ✨
 
 
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Great-Biscuit&count_private=true&show_icons=true"/>
+<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Great-Biscuit&count_private=true&show_icons=true&theme=flag-india"/>
 
 <!--
 
