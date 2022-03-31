@@ -2,7 +2,7 @@
 
 ### ✨ A Java Developer. ✨
 
-[![GreatBiscuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Great-Biscuit&count_private=true&show_icons=true&theme=flag-india)](https://www.greatbiscuit.top/)
+[![GreatBiscuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Great-Biscuit&count_private=true&show_icons=true&theme=flag-india)](https://github.com/Great-Biscuit)
 
 
 <!--
